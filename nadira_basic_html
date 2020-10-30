@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+           <h1>This is a Heading</h1>
+
+<i><p style="color:Blue;">Sed finibus nunc consequat pharetra pretium..</p><i>
+<i><p style="color:Blue;">Proin molestie tempor dignissim..</p><i>
+<i><p style="color:Blue;"> Duis magna est, vehicula in scelerisque eu, vulputate at nisi..</p><i>
+
+<center><b><p style="color:Black;">Sed finibus nunc consequat pharetra pretium..</p><b>
+
+</body>
+</html>
